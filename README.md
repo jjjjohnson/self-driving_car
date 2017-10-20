@@ -11,7 +11,7 @@ In this repository I will share the **source code** of all the projects of **[Ud
       <p align="center">
            <a href="https://streamable.com/5a039"><img src="./Project_1_basic_lane_finding/data/outputs/videos/solidWhite-gif.gif" alt="Overview" width="60%" height="60%"></a>
            <br>P1: Basic Lane Finding
-           <br><a href="./project_1_lane_finding_basic" name="p1_code">(code)</a>
+           <br><a href="./Project_1_basic_lane_finding" name="p1_code">(code)</a>
       </p>
     </th>
         <th><p align="center">
@@ -21,13 +21,13 @@ In this repository I will share the **source code** of all the projects of **[Ud
         </p>
     </th>
        <th><p align="center">
-           <a href="https://www.youtube.com/watch?v=gXkMELjZmCc"><img src="./project_3_behavioral_cloning/img/overview.gif" alt="Overview" width="60%" height="60%"></a>
+           <a href="https://streamable.com/happr"><img src="./Project_3_behavioral_cloning/output/babaviorCloning-gif.gif" alt="Overview" width="60%" height="60%"></a>
            <br>P3: Behavioral Cloning
-           <br><a href="./project_3_behavioral_cloning" name="p3_code">(code)</a>
+           <br><a href="./Project_3_behavioral_cloning" name="p3_code">(code)</a>
         </p>
     </th>
         <th><p align="center">
-           <a href="https://www.youtube.com/watch?v=g5BhDtoheE4"><img src="./project_4_advanced_lane_finding/img/overview.gif"                         alt="Overview" width="60%" height="60%"></a>
+           <a href="https://www.youtube.com/watch?v=g5BhDtoheE4"><img src="./project_4_advanced_lane_finding/output/babaviorCloning-gif.gif"                         alt="Overview" width="60%" height="60%"></a>
            <br>P4: Adv. Lane Finding
            <br><a href="./project_4_advanced_lane_finding" name="p4_code">(code)</a>
         </p>
