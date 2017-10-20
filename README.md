@@ -71,25 +71,31 @@ In this repository I will share the **source code** of all the projects of **[Ud
            <br><a href="./Project_10_MPC_control" name="p10_code">(code)</a>
       </p>
     </th>
+    <th><p align="center">
+           <a href="https://streamable.com/ou9wu"><img src="./Project_11_Path_planning/Path_planning_demo.gif" alt="Overview" width="60%" height="60%"></a>
+           <br>P11: Path Planning
+           <br><a href="./Project_11_Path_planning" name="p11_code">(code)</a>
+      </p>
+    </th>
   </tr>
 </table>
 
 
 ## Table of Contents
 
-#### [P1 - Detecting Lane Lines (basic)](project_1_lane_finding_basic)
+#### [P1 - Detecting Lane Lines (basic)](Project_1_basic_lane_finding)
  - **Summary:** Detected highway lane lines on a video stream. Used OpencV image analysis techniques to identify lines, including Hough Transforms and Canny edge detection.
  - **Keywords:** Computer Vision
  
-#### [P2 - Traffic Sign Classification](project_2_traffic_sign_classifier)
+#### [P2 - Traffic Sign Classification](Project_2_traffic_sign_classifier)
  - **Summary:** Built and trained a deep neural network to classify traffic signs, using TensorFlow. Experimented with different network architectures. Performed image pre-processing and validation to guard against overfitting.
  - **Keywords:** Deep Learning, TensorFlow, Computer Vision
  
-#### [P3 - Behavioral Cloning](project_3_behavioral_cloning)
+#### [P3 - Behavioral Cloning](Project_3_behavioral_cloning)
  - **Summary:** Built and trained a convolutional neural network for end-to-end driving in a simulator, using TensorFlow and Keras. Used optimization techniques such as regularization and dropout to generalize the network for driving on multiple tracks.
  - **Keywords:** Deep Learning, Keras, Convolutional Neural Networks
 
-#### [P4 - Advanced Lane Finding](project_4_advanced_lane_finding)
+#### [P4 - Advanced Lane Finding](Project_4_advanced_lane_finding)
  - **Summary:** Built an advanced lane-finding algorithm using distortion correction, image rectification, color transforms, and gradient thresholding. Identified lane curvature and vehicle displacement. Overcame environmental challenges such as shadows and pavement changes.
  - **Keywords:** Computer Vision, OpenCV
  
