@@ -35,10 +35,33 @@ In this repository I will share the **source code** of all the projects of **[Ud
   </tr>
   <tr>
     <th><p align="center">
-           <a href="https://www.youtube.com/watch?v=Cd7p5pnP3e0"><img src="./project_5_vehicle_detection/img/overview.gif"                         alt="Overview" width="60%" height="60%"></a>
+           <a href="https://streamable.com/x23f2"><img src="./project_5_vehicle_detection/P5-gif.gif"                         alt="Overview" width="60%" height="60%"></a>
            <br>P5: Vehicle Detection
            <br><a href="./project_5_vehicle_detection" name="p5_code">(code)</a>
         </p>
+    </th>
+        <th>
+      <p align="center">
+           <a href="https://streamable.com/5a039"><img src="./Project_1_basic_lane_finding/data/outputs/videos/solidWhite-gif.gif" alt="Overview" width="60%" height="60%"></a>
+           <br>P6: Extended Kalman Filter
+           <br><a href="./Project_1_basic_lane_finding" name="p1_code">(code)</a>
+      </p>
+    </th>
+    
+        <th>
+      <p align="center">
+           <a href="https://streamable.com/5a039"><img src="./Project_1_basic_lane_finding/data/outputs/videos/solidWhite-gif.gif" alt="Overview" width="60%" height="60%"></a>
+           <br>P1: Basic Lane Finding
+           <br><a href="./Project_1_basic_lane_finding" name="p1_code">(code)</a>
+      </p>
+    </th>
+    
+        <th>
+      <p align="center">
+           <a href="https://streamable.com/5a039"><img src="./Project_1_basic_lane_finding/data/outputs/videos/solidWhite-gif.gif" alt="Overview" width="60%" height="60%"></a>
+           <br>P1: Basic Lane Finding
+           <br><a href="./Project_1_basic_lane_finding" name="p1_code">(code)</a>
+      </p>
     </th>
   </tr>
 </table>
