@@ -15,9 +15,9 @@ In this repository I will share the **source code** of all the projects of **[Ud
       </p>
     </th>
         <th><p align="center">
-           <a href="./project_2_traffic_sign_classifier/Traffic_Sign_Classifier.ipynb"><img src="./Project_2_traffic_sign_classifier/img/softmax.png" alt="Overview" width="60%" height="60%"></a>
+           <a href="./Project_2_traffic_sign_classifier/Traffic_Sign_Classifier.ipynb"><img src="./Project_2_traffic_sign_classifier/img/softmax.png" alt="Overview" width="60%" height="60%"></a>
            <br>P2: Traffic Signs
-           <br><a href="./project_2_traffic_sign_classifier" name="p2_code">(code)</a>
+           <br><a href="./Project_2_traffic_sign_classifier" name="p2_code">(code)</a>
         </p>
     </th>
        <th><p align="center">
@@ -37,14 +37,14 @@ In this repository I will share the **source code** of all the projects of **[Ud
     <th><p align="center">
            <a href="https://streamable.com/x23f2"><img src="./project_5_vehicle_detection/P5-gif.gif"                         alt="Overview" width="60%" height="60%"></a>
            <br>P5: Vehicle Detection
-           <br><a href="./project_5_vehicle_detection" name="p5_code">(code)</a>
+           <br><a href="./Project_5_vehicle_detection" name="p5_code">(code)</a>
         </p>
     </th>
         <th>
       <p align="center">
-           <a href="https://streamable.com/5a039"><img src="./Project_1_basic_lane_finding/data/outputs/videos/solidWhite-gif.gif" alt="Overview" width="60%" height="60%"></a>
+           <a href="https://streamable.com/kfyz3"><img src="./Project_6_extended_kalman_filter/P6-gif.gif" alt="Overview" width="60%" height="60%"></a>
            <br>P6: Extended Kalman Filter
-           <br><a href="./Project_1_basic_lane_finding" name="p1_code">(code)</a>
+           <br><a href="./Project_6_extended_kalman_filter" name="p6_code">(code)</a>
       </p>
     </th>
     
