@@ -1,8 +1,7 @@
 # self-driving-car
 
-In this repository I will share the **source code** of all the projects of **[Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)**.
+In this repository I will share the **source code** of all the projects of **[Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).**
 
-Hope this might be useful to someone! :-)
 
 ## Overview
 
@@ -10,7 +9,7 @@ Hope this might be useful to someone! :-)
   <tr>
     <th>
       <p align="center">
-           <a href="https://www.youtube.com/watch?v=KlQ-8iD1EFM"><img src="./project_1_lane_finding_basic/img/overview.gif" alt="Overview" width="60%" height="60%"></a>
+           <a href="https://streamable.com/5a039"><img src="./Project_1_basic_lane_finding/data/outputs/videos/solidWhite-gif.gif" alt="Overview" width="60%" height="60%"></a>
            <br>P1: Basic Lane Finding
            <br><a href="./project_1_lane_finding_basic" name="p1_code">(code)</a>
       </p>
