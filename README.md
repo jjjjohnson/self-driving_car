@@ -46,9 +46,9 @@ In this repository I will share the **source code** of all the projects of **[Ud
       </p>
     </th>
     <th><p align="center">
-           <a href="https://streamable.com/5a039"><img src="./Project_1_basic_lane_finding/data/outputs/videos/solidWhite-gif.gif" alt="Overview" width="60%" height="60%"></a>
-           <br>P1: Basic Lane Finding
-           <br><a href="./Project_1_basic_lane_finding" name="p1_code">(code)</a>
+           <a href="https://streamable.com/5a039"><img src="./Project_7_unscented_kalman_filter/result/NIS_radar.png" alt="Overview" width="60%" height="60%"></a>
+           <br>P7: Unsc. Kalman Filter 
+           <br><a href="./Project_7_unscented_kalman_filter" name="p7_code">(code)</a>
       </p>
     </th>
     <th><p align="center">
