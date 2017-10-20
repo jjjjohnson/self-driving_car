@@ -37,4 +37,5 @@ class Line:
         cv2.line(img, (self.x1, self.y1), (self.x2, self.y2), color, thickness)
 
     def get_xbottom(self, img_shape):
+        """x= slop*y + b, what is x value at the bottom of the image"""
         return (img_shape[0] - self.y1) / (self.slope + 0.0000001) + self.x1
