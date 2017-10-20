@@ -7,26 +7,25 @@ In this repository I will share the **source code** of all the projects of **[Ud
 
 <table style="width:100%">
   <tr>
-    <th>
-      <p align="center">
+    <th><p align="center">
            <a href="https://streamable.com/5a039"><img src="./Project_1_basic_lane_finding/data/outputs/videos/solidWhite-gif.gif" alt="Overview" width="60%" height="60%"></a>
            <br>P1: Basic Lane Finding
            <br><a href="./Project_1_basic_lane_finding" name="p1_code">(code)</a>
       </p>
     </th>
-        <th><p align="center">
+    <th><p align="center">
            <a href="./Project_2_traffic_sign_classifier/Traffic_Sign_Classifier.ipynb"><img src="./Project_2_traffic_sign_classifier/img/softmax.png" alt="Overview" width="60%" height="60%"></a>
            <br>P2: Traffic Signs
            <br><a href="./Project_2_traffic_sign_classifier" name="p2_code">(code)</a>
-        </p>
+       </p>
     </th>
-       <th><p align="center">
+    <th><p align="center">
            <a href="https://streamable.com/happr"><img src="./Project_3_behavioral_cloning/output/babaviorCloning-gif.gif" alt="Overview" width="60%" height="60%"></a>
            <br>P3: Behavioral Cloning
            <br><a href="./Project_3_behavioral_cloning" name="p3_code">(code)</a>
         </p>
     </th>
-        <th><p align="center">
+    <th><p align="center">
            <a href="https://streamable.com/uijw3"><img src="./Project_4_advanced_lane_finding/p4-gif.gif"                         alt="Overview" width="60%" height="60%"></a>
            <br>P4: Adv. Lane Finding
            <br><a href="./Project_4_advanced_lane_finding" name="p4_code">(code)</a>
@@ -40,24 +39,19 @@ In this repository I will share the **source code** of all the projects of **[Ud
            <br><a href="./Project_5_vehicle_detection" name="p5_code">(code)</a>
         </p>
     </th>
-        <th>
-      <p align="center">
+    <th><p align="center">
            <a href="https://streamable.com/kfyz3"><img src="./Project_6_extended_kalman_filter/P6-gif.gif" alt="Overview" width="60%" height="60%"></a>
            <br>P6: Extended Kalman Filter
            <br><a href="./Project_6_extended_kalman_filter" name="p6_code">(code)</a>
       </p>
     </th>
-    
-        <th>
-      <p align="center">
+    <th><p align="center">
            <a href="https://streamable.com/5a039"><img src="./Project_1_basic_lane_finding/data/outputs/videos/solidWhite-gif.gif" alt="Overview" width="60%" height="60%"></a>
            <br>P1: Basic Lane Finding
            <br><a href="./Project_1_basic_lane_finding" name="p1_code">(code)</a>
       </p>
     </th>
-    
-        <th>
-      <p align="center">
+    <th><p align="center">
            <a href="https://streamable.com/5a039"><img src="./Project_1_basic_lane_finding/data/outputs/videos/solidWhite-gif.gif" alt="Overview" width="60%" height="60%"></a>
            <br>P1: Basic Lane Finding
            <br><a href="./Project_1_basic_lane_finding" name="p1_code">(code)</a>
