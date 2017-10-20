@@ -52,9 +52,9 @@ In this repository I will share the **source code** of all the projects of **[Ud
       </p>
     </th>
     <th><p align="center">
-           <a href="https://streamable.com/5a039"><img src="./Project_1_basic_lane_finding/data/outputs/videos/solidWhite-gif.gif" alt="Overview" width="60%" height="60%"></a>
-           <br>P1: Basic Lane Finding
-           <br><a href="./Project_1_basic_lane_finding" name="p1_code">(code)</a>
+           <a href="https://streamable.com/0xgyx"><img src="./Project_8_kidnapped_vehicle/kidnapped_vehicle_demo.gif" alt="Overview" width="60%" height="60%"></a>
+           <br>P8: Kidnapped Vehicle 
+           <br><a href="./Project_8_kidnapped_vehicle" name="p8_code">(code)</a>
       </p>
     </th>
   </tr>

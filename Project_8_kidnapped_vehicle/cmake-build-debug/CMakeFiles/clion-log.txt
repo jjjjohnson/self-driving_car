@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/jinjunjie/a_self_driving_car/Term2/Proj3-Kidnapped-vehicle
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/jinjunjie/a_self_driving_car/Term2/Proj3-Kidnapped-vehicle/cmake-build-debug
