@@ -15,7 +15,7 @@ In this repository I will share the **source code** of all the projects of **[Ud
       </p>
     </th>
         <th><p align="center">
-           <a href="./project_2_traffic_sign_classifier/Traffic_Sign_Classifier.ipynb"><img src="./project_2_traffic_sign_classifier/img/softmax.png" alt="Overview" width="60%" height="60%"></a>
+           <a href="./project_2_traffic_sign_classifier/Traffic_Sign_Classifier.ipynb"><img src="./Project_2_traffic_sign_classifier/img/softmax.png" alt="Overview" width="60%" height="60%"></a>
            <br>P2: Traffic Signs
            <br><a href="./project_2_traffic_sign_classifier" name="p2_code">(code)</a>
         </p>
