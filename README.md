@@ -77,6 +77,12 @@ In this repository I will share the **source code** of all the projects of **[Ud
            <br><a href="./Project_11_Path_planning" name="p11_code">(code)</a>
       </p>
     </th>
+    <th><p align="center">
+           <a href="https://streamable.com/6cvcg"><img src="./Project_12_Semantic Segmentation/semantic_segmentation_demo.gif" alt="Overview" width="60%" height="60%"></a>
+           <br>P12: Semantic Segmentation
+           <br><a href="./Project_12_Semantic Segmentation" name="p12_code">(code)</a>
+      </p>
+    </th>
   </tr>
 </table>
 
